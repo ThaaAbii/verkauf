@@ -1,0 +1,76 @@
+{
+    "users": {
+        "a": "a",
+        "abii": "test"
+    },
+    "sales": [
+        {
+            "id": 4,
+            "user": "abii",
+            "category": "Bot Lobby > 1x",
+            "date": "2025-01-23",
+            "amount": 5.0,
+            "description": "",
+            "buyer": "jonas2"
+        },
+        {
+            "id": 2,
+            "user": "abii",
+            "category": "Camos > Dark Matter",
+            "date": "2025-01-23",
+            "amount": 400.0,
+            "description": "",
+            "buyer": "Awe"
+        },
+        {
+            "id": 3,
+            "user": "abii",
+            "category": "Camos > Nebula",
+            "date": "2025-01-23",
+            "amount": 300.0,
+            "description": "",
+            "buyer": "Awe"
+        },
+        {
+            "id": 4,
+            "user": "abii",
+            "category": "Camos > Nebula",
+            "date": "2025-01-23",
+            "amount": 300.0,
+            "description": "",
+            "buyer": "Awe"
+        }
+    ],
+    "categories": {
+        "eeee": {
+            "subcategories": {
+                "eee": {
+                    "price": 5.0
+                },
+                "2": {
+                    "price": 111.0
+                }
+            }
+        },
+        "Bot Lobby": {
+            "subcategories": {
+                "1x": {
+                    "price": 5.0
+                },
+                "2x": {
+                    "price": 10.0
+                }
+            }
+        },
+        "Camos": {
+            "subcategories": {
+                "Nebula": {
+                    "price": 300.0
+                },
+                "Dark Matter": {
+                    "price": 400.0
+                }
+            }
+        }
+    }
+}
